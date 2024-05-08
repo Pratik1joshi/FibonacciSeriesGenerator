@@ -8,5 +8,6 @@ def main():
     series = fibonacci.get_fibonacci_series(number)
     
     print(series)
+    print("Thank you !!!")
 
 main()    
